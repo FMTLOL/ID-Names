@@ -261,5 +261,9 @@ const NAV_ITEMS: Array<NavItem> = [
     label: "Stake",
     href: "https://idstake.fmtlol.com",
   },
+  {
+    label: "Buy F",
+    href: "https://fmtlol.com/order",
+  },
   
 ];
