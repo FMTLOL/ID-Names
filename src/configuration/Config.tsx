@@ -23,7 +23,7 @@ export const DOMAIN_NETWORK_CHAIN = 137 //137 for polygon, 314 for filecoin, 800
 export const DOMAIN_DESCRIPTION = 'Web3 Domain Name'
 export const DOMAIN_TYPE = "W3D" //W3D for polygon, FVM for Filecoin net
 export const DOMAIN_TITLE = "" //Title above the search input field. 
-export const DOMAIN_PLACEHOLDER = "Search for ID.. Mint price 2m F" //Placeholder for search input field 
+export const DOMAIN_PLACEHOLDER = "Search for ID.. Mint price 2.000.000 F" //Placeholder for search input field 
 
 export const ADMIN_WALLET = "0xDb800bA0ab92D61a3Ff7A299DC7101FAD723CC9c" //ETH wallet address 
 
